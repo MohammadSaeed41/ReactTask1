@@ -1,4 +1,4 @@
-import CustomButton from "./shared/customButton";
+import CustomButton from "./shared/CustomButton.jsx";
 
 function User(props){
 

@@ -1,6 +1,6 @@
 import { useState } from "react";
-import CustomButton from "./shared/CustomButton";
-import CustomInput from "./shared/CustomInput";
+import CustomButton from "./shared/CustomButton.jsx";
+import CustomInput from "./shared/CustomInput.jsx";
 
 
 function AddUser({ onSendData }) {
