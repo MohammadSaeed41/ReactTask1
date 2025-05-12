@@ -1,8 +1,7 @@
 import { useState } from "react";
 import User from "./User";
 import AddUser from "./AddUser";
-import CustomButton from "./shared/customButton";
-import CustomInput from "./shared/CustomInput";
+
 
 function App2(){
 
